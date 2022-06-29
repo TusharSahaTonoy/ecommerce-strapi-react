@@ -467,7 +467,7 @@ section {
   padding: 10px 0 0 28px;
   position: relative;
 }
-.about .content ul i {
+.about .content ul svg {
   left: 0;
   top: 7px;
   position: absolute;
